@@ -4,8 +4,6 @@
 This project delivers an end-to-end customer churn analysis using **Python and MySQL**.  
 It focuses on identifying churn drivers, customer behavior patterns, and actionable insights to improve customer retention.
 
-Designed to reflect **real-world data analytics workflows** used in consulting firms, Big-4, and MNC environments.
-
 ---
 
 ## 🎯 Business Problem
