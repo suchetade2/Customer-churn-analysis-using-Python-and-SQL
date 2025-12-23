@@ -40,6 +40,3 @@ The goal is to identify key factors contributing to customer churn and provide a
 - `sql_queries.sql` – MySQL queries
 - `README.md` – Project documentation
 
-## Author
-Sucheta De  
-Aspiring Data Analyst
